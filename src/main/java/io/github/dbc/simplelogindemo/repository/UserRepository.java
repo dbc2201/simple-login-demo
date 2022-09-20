@@ -1,6 +1,6 @@
-package io.github.dbc.repository;
+package io.github.dbc.simplelogindemo.repository;
 
-import io.github.dbc.model.User;
+import io.github.dbc.simplelogindemo.model.User;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
